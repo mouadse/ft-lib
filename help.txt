@@ -2,3 +2,24 @@ https://github.com/dawnbeen/c_formatter_42
 
 
 c_formatter_42 *.c *.h
+
+
+ls -la // Delete any other file
+
+.DS_Store
+
+
+https://man7.org/linux/man-pages/man3/strdup.3.html
+
+
+# Each malloc call check after it
+
+char *res = malloc(sizeof(char) * (strlen(str) + 1))
+if(res == NULL)
+{
+	return NULL;
+}
+if(!res)
+{
+	return NULL;
+}
