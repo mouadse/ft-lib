@@ -6,7 +6,7 @@
 /*   By: msennane <msennane@student.1337.ma>        +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/11/18 01:25:03 by msennane          #+#    #+#             */
-/*   Updated: 2024/11/18 01:25:45 by msennane         ###   ########.fr       */
+/*   Updated: 2024/11/18 03:03:20 by msennane         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -32,6 +32,7 @@ typedef struct s_list
 	int				size;
 }					t_list;
 
-void				calculate(int num1, int num2);
+void calculate(int num1, int num2);
+char *ft_strtrim(char const *s1, char const *set);
 
 #endif
