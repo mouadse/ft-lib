@@ -26,3 +26,5 @@ if(!res)
 
 
 https://explainshell.com/
+
+https://miro.medium.com/v2/resize:fit:450/1*i38MSoYXaWwekvHTzNOAXQ.png
