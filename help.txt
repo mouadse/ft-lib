@@ -38,3 +38,16 @@ https://notebooklm.google/
 
 
 https://notebooklm.google.com/notebook/76b9a4a9-6190-4ee3-8bc6-021d3b4c6c12?_gl=1*13zvwxk*_ga*MzIyNTA1MjQ3LjE3MzAwNjI0MzI.*_ga_W0LDH41ZCB*MTczMTkzNjQ5OC45LjEuMTczMTkzNjQ5OS41OS4wLjA.
+
+
+/dev/stdin 				// Read from the standard input
+/dev/stdout 			// Write to the standard output
+/dev/stderr 			// Write to the standard error
+
+
+https://www.codequoi.com/en/handling-a-file-by-its-descriptor-in-c/
+
+
+https://github.com/mouadse/pipex_backup/blob/main/libft_utils3.c
+
+
