@@ -34,3 +34,7 @@ echo $? // Check the return value of the last command
 
 
 https://notebooklm.google/
+
+
+
+https://notebooklm.google.com/notebook/76b9a4a9-6190-4ee3-8bc6-021d3b4c6c12?_gl=1*13zvwxk*_ga*MzIyNTA1MjQ3LjE3MzAwNjI0MzI.*_ga_W0LDH41ZCB*MTczMTkzNjQ5OC45LjEuMTczMTkzNjQ5OS41OS4wLjA.
